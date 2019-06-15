@@ -1,19 +1,20 @@
 ---
 title: "Multiplayer Snake Game (Fall 2017)"
-excerpt: "Slither.io clone with data analytics. Client-Server arch. Node.js, Websockets, OAuth, MongoDB.<br/><img src='/images/slither/7.PNG'  style='max-height:400px;'>"
+excerpt: "Slither.io clone with data analytics. Node.js, WebSockets, OAuth, MongoDB.<br/><img src='/images/slither/7.PNG'  style='max-height:400px;'>"
 collection: portfolio
 ---
 
-Slither.io clone with data analytics. Client-Server arch. Node.js, Websockets, OAuth, MongoDB.
+Uses modified Slither.io client with custom backend. Users connect to server through WebSockets. Game information is recorded and displayed on a stats page.  
 This three person group project was created during Fall 2017 for CS476 at the University of Regina.  
 
 [Github Repository](https://github.com/iwanttoeatyo/URgameSlither)  
 
 ### Technologies Used
-Node.js  
-WebSockets  
-OAuth 2.0  
-Bootstrap 4.0  
+* Node.js  
+* WebSockets  
+* OAuth 2.0  
+* Bootstrap 4.0  
+* MongoDb
 
 ### Images
 ![](/images/slither/7.PNG)

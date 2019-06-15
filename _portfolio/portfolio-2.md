@@ -1,6 +1,6 @@
 ---
 title: "Realtime Ray Tracer"
-excerpt: "Realtime Ray Tracer written in Typescript using Webgl2.<br/><a href='https://iwanttoeatyo.github.io/ts-raytracer/index.html'>Live Demo Available</a><br/><img src='/images/rendering/a-2.jpg'  style='max-height:400px;'>"
+excerpt: "Realtime Ray Tracer written in Typescript using Webgl2, ImGui.<br/><a href='https://iwanttoeatyo.github.io/ts-raytracer/index.html'>Live Demo Available (Firefox/Chrome on Desktop)</a><br/><img src='/images/rendering/a-2.jpg'  style='max-height:400px;'>"
 collection: portfolio
 ---
 

@@ -32,7 +32,7 @@ Images
 ![](/images/arduino/2.jpg)
 ![](/images/arduino/3.jpg)
 
-Demonstration
+Videos
 -------------
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UGoIHObZg50
