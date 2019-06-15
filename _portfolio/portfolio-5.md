@@ -1,6 +1,6 @@
 ---
 title: "3D Platformer (Winter 2018)"
-excerpt: "3D Platform game with rendering, physics, animation, and pathfinding<br/><img src='/images/cs409/a-3.jpg'>"
+excerpt: "3D Platform game with rendering, physics, animation, and pathfinding<br/><img src='/images/cs409/a-3.jpg'  height="400">"
 collection: portfolio
 ---
 

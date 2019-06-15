@@ -1,6 +1,6 @@
 ---
 title: "Realtime Ray Tracer"
-excerpt: "Realtime Ray Tracer written in Typescript using Webgl2.<br/><img src='/images/rendering/a-2.jpg'>"
+excerpt: "Realtime Ray Tracer written in Typescript using Webgl2.<br/><img src='/images/rendering/a-2.jpg'  height="400">"
 collection: portfolio
 ---
 

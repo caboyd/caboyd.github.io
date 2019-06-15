@@ -1,6 +1,6 @@
 ---
 title: "Multiplayer Checkers (Winter 2017)"
-excerpt: "Multiplayer checkers built with CakePHP 3 and Websockets<br/><img src='/images/checkers/5.PNG'>"
+excerpt: "Multiplayer checkers built with CakePHP 3 and Websockets<br/><img src='/images/checkers/5.PNG'  height="400">"
 collection: portfolio
 ---
 
@@ -9,11 +9,11 @@ This six person group project was created during Winter 2017 for CS372 at the Un
 
 [Github Repository](https://github.com/iwanttoeatyo/Game-With-Chat)  
 
-## Description
+## Project Description
 An online interface that allows players to play a checkers game against each other while any user (registered and unregistered) can watch any real-time game. The players will be competing to achieve a higher personal score.
 Players are available to chat, spectate, create, and join lobbies.
 
-## Images 
+### Images 
 ![](/images/checkers/1.PNG)
 ![](/images/checkers/2.PNG)
 ![](/images/checkers/3.PNG)

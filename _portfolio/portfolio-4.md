@@ -1,6 +1,6 @@
 ---
 title: "iOS Remote Car Racing Game (Fall 2018)"
-excerpt: "iOS 2D racing game with leaderboards. Remote device control and real-time multiplayer networking.<br/><img src='/images/ios/p2p-rcr1.png'>"
+excerpt: "iOS 2D racing game with leaderboards. Remote device control and real-time multiplayer networking.<br/><img src='/images/ios/p2p-rcr1.png'  height="400">"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ This two person group project was created during Fall 2018 for CS455 at the Univ
   
 [Github Repository](https://github.com/iwanttoeatyo/ios-remote-racing)  
   
-## Images
+### Images
 ![](/images/ios/p2p-rcr1.png)
 ![](/images/ios/p2p-rcr2.png)
 ![](/images/ios/p2p-rcr3.png)
