@@ -6,6 +6,8 @@ collection: portfolio
 
 Physically Based Renderer written in Typescript. This project was created to learn how to create a forward rendering engine from scratch.
 
+[Github Repository](https://github.com/iwanttoeatyo/ts-pbr-renderer)  
+
 [Live Demo Available](https://iwanttoeatyo.github.io/ts-pbr-renderer/index.html)  
 Built for Chrome on Desktop.
 
