@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Realtime Physically Based Renderer"
+excerpt: "Physically based forward renderer written in Typescript using Webgl2.<br/><img src='/images/pbr1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Physically Based Renderer written in Typescript. This project was created to learn how to create a forward rendering engine from scratch.
+
+[Live Demo Available](https://iwanttoeatyo.github.io/ts-pbr-renderer/index.html)  
+Built for Chrome on Desktop.
+
+[<img src="/images/pbr1.png" alt="Typescript PBR Renderer Demoimage">](https://iwanttoeatyo.github.io/ts-pbr-renderer/index.html)
