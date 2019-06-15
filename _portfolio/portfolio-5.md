@@ -1,10 +1,18 @@
 ---
 title: "3D Platformer (Winter 2018)"
-excerpt: "3D Platform game with rendering, physics, animation, and pathfinding<br/><img src='/images/cs409/a-3.jpg'  height="400">"
+excerpt: "3D Platform game with rendering, physics, animation, and pathfinding<br/><a href='https://iwanttoeatyo.github.io/CS409-A6-Typescript-WebGL2/index.html'>Live Demo Available</a><br/><img src='/images/cs409/a-3.jpg'  style='max-height:400px;'>"
 collection: portfolio
 ---
 
-3D Platform game with Blinn-Phong rendering model, physics based movement and collision, morph target animation, and bidirectional A* pathfinding.
+3D Platform game where player jumps around collecting disks while avoiding bats. Original assignment written in C++ using OpenGL 3.3. 
+Re-written in Typescript and Webgl2 for web.
+
+## Features
+* Blinn-Phong rendering model
+* Physics based movement and collision
+* Morph target animation
+* Bidirectional A* pathfinding
+* Particles
 
 [Live Demo Available](https://iwanttoeatyo.github.io/CS409-A6-Typescript-WebGL2/index.html)
 

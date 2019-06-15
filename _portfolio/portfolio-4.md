@@ -1,6 +1,6 @@
 ---
 title: "iOS Remote Car Racing Game (Fall 2018)"
-excerpt: "iOS 2D racing game with leaderboards. Remote device control and real-time multiplayer networking.<br/><img src='/images/ios/p2p-rcr1.png'  height="400">"
+excerpt: "iOS 2D racing game with leaderboards. Remote device control and real-time multiplayer networking.<br/><img src='/images/ios/p2p-rcr1.png'  style='max-height:400px;'>"
 collection: portfolio
 ---
 

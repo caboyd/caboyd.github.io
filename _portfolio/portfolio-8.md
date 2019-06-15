@@ -1,6 +1,6 @@
 ---
 title: "Arduino Car (Fall 2015)"
-excerpt: "Autonomous and Remote Arduino Car with Android Controller App<br/><img src='/images/arduino/2.jpg'  height="400">"
+excerpt: "Autonomous and Remote Arduino Car with Android Controller App<br/><img src='/images/arduino/2.jpg'  style='max-height:400px;'>"
 collection: portfolio
 ---
 

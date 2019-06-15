@@ -1,6 +1,6 @@
 ---
 title: "Unity VR Game (Winter 2019)"
-excerpt: "Castle Defender VR<br/><img src='/images/vr/a-0.jpg'  height="400">"
+excerpt: "Castle Defender VR<br/><img src='/images/vr/a-0.jpg'  style='max-height:400px;'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Multiplayer Snake Game (Fall 2017)"
-excerpt: "Slither.io clone with data analytics. Client-Server arch. Node.js, Websockets, OAuth, MongoDB.<br/><img src='/images/slither/7.PNG'  height="400">"
+excerpt: "Slither.io clone with data analytics. Client-Server arch. Node.js, Websockets, OAuth, MongoDB.<br/><img src='/images/slither/7.PNG'  style='max-height:400px;'>"
 collection: portfolio
 ---
 

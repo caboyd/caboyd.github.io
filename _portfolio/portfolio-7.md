@@ -1,6 +1,6 @@
 ---
 title: "Multiplayer Checkers (Winter 2017)"
-excerpt: "Multiplayer checkers built with CakePHP 3 and Websockets<br/><img src='/images/checkers/5.PNG'  height="400">"
+excerpt: "Multiplayer checkers built with CakePHP 3 and Websockets<br/><img src='/images/checkers/5.PNG'  style='max-height:400px;'>"
 collection: portfolio
 ---
 
