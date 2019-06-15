@@ -5,8 +5,9 @@ collection: portfolio
 ---
 
 Wave based defense game where player must pick up enemies and throw them to kill them.  Player loses when castle reaches zero health.  
-This one person project was created during Winter 2019 for CS390AP at the University of Regina.
+This one person project was created during Winter 2019 for CS390AP at the University of Regina.  
 
+Uses Synty Studios paid assets from unity store for models.
 
 ### Features
 * Animated models
