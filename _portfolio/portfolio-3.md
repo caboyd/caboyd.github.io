@@ -1,6 +1,6 @@
 ---
 title: "VR Game (Winter 2019)"
-excerpt: "VR Game<br/><img src=''>"
+excerpt: "To Be Uploaded<br/><img src=''>"
 collection: portfolio
 ---
 

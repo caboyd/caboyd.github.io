@@ -22,7 +22,7 @@ Work experience
   * Wrote SQL queries for business requests.
   * Monitored error reporting and performed testing/debugging of online licence application system
 
-* Jan-Sept 2016: Application Architecture Assistant (Coop)
+* Jan - Sept 2016: Application Architecture Assistant (Coop)
   * **Agriculture and Agri-Food Canada (AAFC)**
   * **Project:** Primary developer of team that designed, released and maintained internal data entry web application. HTML, CSS, JQuery, Groovy/Grails, Oracle Database.
   * Maintained up-to-date documentation for approved developer technologies.
