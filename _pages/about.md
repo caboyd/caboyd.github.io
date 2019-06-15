@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 I am a 2019 Computer Science graduate of the University of Regina.  
-My Interests include: computer graphics, realtime rendering, mulitplayer networking, and web development.
+My Interests include: computer graphics, realtime rendering, multiplayer networking, and web development.
