@@ -11,8 +11,6 @@ collection: portfolio
 [Github Repository Typescript Webgl2](https://github.com/iwanttoeatyo/CS409-A6-Typescript-WebGL2)  
 [Github Repository C++](https://github.com/iwanttoeatyo/CS409-201810-A6)  
 
-## Images 
-
 ### Lighting
 ![](/images/cs409/no_lighting.png)
 ![](/images/cs409/lighting.png)
@@ -23,7 +21,7 @@ collection: portfolio
 
 ### Bidirectional A* Pathfinding
 ![](/images/cs409/pathfinding.PNG)
-![](/images/cs409/pathfinding2.PNG)
+![](/images/cs409/pathfinding2.png)
 
 ### Web Version
 ![](/images/cs409/disks.PNG)
