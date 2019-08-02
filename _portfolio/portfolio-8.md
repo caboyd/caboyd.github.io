@@ -2,9 +2,10 @@
 title: "Arduino Car (Fall 2015)"
 excerpt: "Autonomous and Remote Arduino Car with Android Controller App<br/><img src='/images/arduino/2.jpg'  style='max-height:400px;'>"
 collection: portfolio
+repo: Arduino-Car
 ---
 
-[Github Repository](https://github.com/iwanttoeatyo/Arduino-Car)  
+[Github Repository](https://github.com/{{ site.author.github }}/{{ page.repo }})  
 
 Overview
 --------
